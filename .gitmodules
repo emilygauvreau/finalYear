@@ -1,0 +1,3 @@
+[submodule "cisc471"]
+	path = cisc471
+	url = git@github.com:emilygauvreau/cisc471.git
